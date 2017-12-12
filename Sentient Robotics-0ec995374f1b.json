@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "sentient-robotics",
+  "private_key_id": "0ec995374f1b0cd38801f4ab953f47e0b29ecf3c",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCZs7fNkgBLi5pV\nCNABOYqGkH7CwaXyNME5zteXaje658t3p+U6Ht1fdGzw4+NUQCT6zzYXVGwZNnND\n2huzax8rVMh/MDy3HnLVIPYe7qGJ3hCm6+wtesS0FosO6+4K+UnmAc9qiMmjwA6i\nW4Fu8L5nXV79iugd/GY1+4YS2CZ8uMBZ5ss+aULpSAepPmWPY64VpPtXX9cBhCy3\nWTiBDtEDbay6BS/8/9/TF+QGYF+MDQQN+2azDFfWRX0nlcOJBo1e1NDEp1mO4Ldf\nCMCCq0wAt9nrbkc7Ko3HdHZamQH2EDS6L84n1RHhRapYXy5vTIHaU7jhap5shuxV\n9p2RdVFjAgMBAAECggEANDQRInYLOZ1hvq3uj+vuO8QJ+bXx2fDHDA5PtTKzWPzv\nY2WX+oSPJaOSeMK97FiY9sK4GXZn/Kw8u/fxXp/shzgVnPVSOdPSpsa6MUlVflD5\nEOiiX9QJySy68Ed7oyiGS+OjggiRi9doYQZ5UKfd05en8q9iJQUb5gvWvsHBWKyU\nhwdrDQDMN1EQJBqmiDZPYsglXNBY2zxLlWedoPNUNIuyLiIrzoY1NiHtYGg8l6aK\nOvUPBuRC+PKqCga4t7ocI3ByL3fQEt1j9asVtpgF/SikN3VlOMcX1xVqT07VAxPH\nGmH9eFs2SS2xYyohpVwKw6j/8NDIaOd07Phw4WOQMQKBgQDLQL6aorZW1djHeZZ2\nqZM3Q9jCTSezb6Ug5MuZGYB/fs7YrOJ6qLJN7h58/BAJKE3mV0fHHcsiZOzi2D5P\nVw+1FiH1yGIukg03gAS//dC2iYEYxIhxLNINxwgh+C81vKV86bMhWGSC9a0prs5b\n0YKwCAUddwVh5SqR6UkTziTaaQKBgQDBlwYxLavBKhx8CQbSAkT/Hc0v7n5p5Dpa\nu+rB0gVXEw+fF2D/jG10IEKWux9jrK8kgUmwKwFnKLXOhyKzr9Ux0Av7EAdj1zCO\nSu2+Ru+IKyCz7LgID2xVAk5vIJplq9S1d2NRLZoL37FE560svmifn4tk8Ao0Je0V\nVVOjBWHb6wKBgCzwQbQ66YnFekqQTX4q/AuqCpDbMj3wH1hofcN56flGdkFd6C0q\ng1HLph4INRtxN9gH0CzsH2+ZVO7K1OwB2c01+Yg4J80YKaftvB8e5TiWql5phalQ\nOZkmOlwYXYfKD+TQXvSucHqsCv8+UQ3oArcc7tSW7i+41XKxW6DvYSKRAoGBAL9G\nKf8TQf2UTxqajJuZVHTBDEhMm6iisKmPvG8OxOn40ll9bwBvzoGLkl99uZDxQQeP\nmrAufa9ggOnziW0C0WHrTrscZkDWkIo3LFnxmp/vBNvhix+jpYUEx1xzWToVohA+\nSuodZXRP68XKJsfrxlHZAJCVv28w/eQzL3UGT19LAoGBAJP5P60NVi+Ja8lMceX9\nzAa1cwrUt60mUgrLiBz4fUqOOVESfKsCK92wJXvt377huo9g/8vHMNmm8+24OKQP\nmdN9vghdo20U8tutw49cbUQBfGvjP0joFfzoZo/PayebA+LZyJ4LgYykhqEz7E5i\nJIw6eTO2cc8kDEXAtJiBLYqQ\n-----END PRIVATE KEY-----\n",
+  "client_email": "robotapi@sentient-robotics.iam.gserviceaccount.com",
+  "client_id": "118159571403762023419",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://accounts.google.com/o/oauth2/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/robotapi%40sentient-robotics.iam.gserviceaccount.com"
+}
